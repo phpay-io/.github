@@ -1,6 +1,6 @@
 # Bem-vindo à PHPay! 🚀
 
-Somos uma organização dedicada a oferecer soluções práticas e robustas para integração com múltiplos gateways de pagamento. Nosso objetivo é simplificar a vida de desenvolvedores e empresas ao lidar com transações financeiras, oferecendo uma interface unificada e eficiente.
+Somos uma organização dedicada a deburocratizar e simplificar a forma como se faz integração de gateways de pagamento em produtos de software.
 
 ---
 
@@ -24,7 +24,7 @@ A **PHPay** é especializada em:
 
 ## 📚 **Projetos Principais**
 
-1. **PHPay Core**: Biblioteca principal para integração com gateways de pagamento como Asaas e Efi.
+1. **PHPay Core**: Biblioteca principal para integração com os gateways de pagamento mais populares do mercado como Asaas e Efi.
 2. **PHPay Dashboard**: Uma interface visual para gerenciar transações e configurar gateways.
 3. **PHPay SDKs**: Ferramentas para facilitar integrações em diferentes plataformas.
 
@@ -51,7 +51,7 @@ A PHPay está aberta para colaborações com empresas e desenvolvedores independ
 
 - [Repositórios Públicos](https://github.com/phpay-io/phpay) (em breve)
 - [Issues e Sugestões](https://github.com/phpay-io/phpay/issues)
-- **Email**: contato@phpay.com
+- **Email**: mariolucasdev@gmail.com
 - **LinkedIn**: [PHPay no LinkedIn](https://linkedin.com/company/phpay) (em breve)
 
 ---
