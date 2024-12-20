@@ -1,7 +1,6 @@
 # Bem-vindo à PHPay! 🚀
 
 Somos uma organização focada em tornar as integrações com gateways de pagamento mais simples e descomplicadas, facilitando a conexão entre tecnologia e negócios em produtos de software.
----
 
 ## 🌟 **O que fazemos?**
 
@@ -11,15 +10,11 @@ A **PHPay** é especializada em:
 - Criar soluções que priorizam simplicidade, segurança e flexibilidade.
 - Apoiar a comunidade de desenvolvedores com projetos open-source de alta qualidade.
 
----
-
 ## 💡 **Por que escolher PHPay?**
 
 - **Facilidade de Uso**: Interface intuitiva para integração com múltiplos gateways.
 - **Flexibilidade**: Compatível com diversos provedores de pagamento.
 - **Comunidade**: Contribuímos ativamente para o crescimento do ecossistema PHP.
-
----
 
 ## 📚 **Projetos Principais**
 
@@ -27,9 +22,7 @@ A **PHPay** é especializada em:
 2. **PHPay Dashboard**: Uma interface visual para gerenciar transações e configurar gateways.
 3. **PHPay SDKs**: Ferramentas para facilitar integrações em diferentes plataformas.
 
----
-
-## 🌐 **Contribua conosco**
+## ✨ **Contribua conosco**
 
 Estamos construindo uma comunidade colaborativa. Você pode nos ajudar de várias formas:
 
@@ -38,13 +31,9 @@ Estamos construindo uma comunidade colaborativa. Você pode nos ajudar de vária
 - Compartilhando nosso trabalho com outros desenvolvedores.
 - [Patrocinando o Projeto](https://github.com/sponsors/mariolucasdev).
 
----
-
 ## 🤝 **Junte-se a nós!**
 
 A PHPay está aberta para colaborações com empresas e desenvolvedores independentes. Acompanhe nossos projetos e faça parte dessa jornada!
-
----
 
 ### 💬 **Fale Conosco**
 
@@ -52,7 +41,5 @@ A PHPay está aberta para colaborações com empresas e desenvolvedores independ
 - [Issues e Sugestões](https://github.com/phpay-io/phpay/issues)
 - **Email**: mariolucasdev@gmail.com
 - **LinkedIn**: [PHPay no LinkedIn](https://www.linkedin.com/company/105770915)
-
----
 
 **PHPay: Simplificando integrações financeiras com eficiência e inovação!**
