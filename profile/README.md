@@ -1,7 +1,6 @@
 # Bem-vindo à PHPay! 🚀
 
-Somos uma organização dedicada a deburocratizar e simplificar a forma como se faz integração de gateways de pagamento em produtos de software.
-
+Somos uma organização focada em tornar as integrações com gateways de pagamento mais simples e descomplicadas, facilitando a conexão entre tecnologia e negócios em produtos de software.
 ---
 
 ## 🌟 **O que fazemos?**
