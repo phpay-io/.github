@@ -51,7 +51,7 @@ A PHPay está aberta para colaborações com empresas e desenvolvedores independ
 - [Repositórios Públicos](https://github.com/phpay-io/phpay) (em breve)
 - [Issues e Sugestões](https://github.com/phpay-io/phpay/issues)
 - **Email**: mariolucasdev@gmail.com
-- **LinkedIn**: [PHPay no LinkedIn](https://linkedin.com/company/phpay) (em breve)
+- **LinkedIn**: [PHPay no LinkedIn](https://www.linkedin.com/company/105770915)
 
 ---
 
